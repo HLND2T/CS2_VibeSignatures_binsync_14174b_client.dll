@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037510Z
+addr = 0xbd2510
+size = 0x370
+name = "CMapAnNodeManager_FireGameEvent"
+type = "long long"
+
+[header]
+name = "CMapAnNodeManager_FireGameEvent"
+addr = 0xbd2510
+type = "long long"
+
+[header.args]

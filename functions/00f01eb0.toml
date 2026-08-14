@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:26.525296Z
+addr = 0xf01eb0
+size = 0x179
+name = "GameStateAPI_GetAccoladeLocalizationString"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetAccoladeLocalizationString"
+addr = 0xf01eb0
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037725Z
+addr = 0xf51c40
+size = 0x2f3
+name = "GameStateAPI_QueryServersForCommendation"
+type = "char"
+
+[header]
+name = "GameStateAPI_QueryServersForCommendation"
+addr = 0xf51c40
+type = "char"
+
+[header.args]

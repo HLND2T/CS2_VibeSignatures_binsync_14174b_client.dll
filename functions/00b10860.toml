@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037478Z
+addr = 0xb10860
+size = 0x109
+name = "CClientInput_CreateMove"
+type = "void"
+
+[header]
+name = "CClientInput_CreateMove"
+addr = 0xb10860
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037705Z
+addr = 0xf3cc30
+size = 0x103
+name = "GameStateAPI_IsLocalPlayerWatchingOwnDemo"
+type = "char"
+
+[header]
+name = "GameStateAPI_IsLocalPlayerWatchingOwnDemo"
+addr = 0xf3cc30
+type = "char"
+
+[header.args]

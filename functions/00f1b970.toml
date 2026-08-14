@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037588Z
+addr = 0xf1b970
+size = 0x1a3
+name = "GameStateAPI_GetPlayerColor"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerColor"
+addr = 0xf1b970
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037665Z
+addr = 0xf270a0
+size = 0x9f
+name = "GameStateAPI_GetTeamClanName"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetTeamClanName"
+addr = 0xf270a0
+type = "char *"
+
+[header.args]

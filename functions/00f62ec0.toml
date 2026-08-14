@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037739Z
+addr = 0xf62ec0
+size = 0x432
+name = "GameStateAPI_SubmitCommendation"
+type = "unsigned long long"
+
+[header]
+name = "GameStateAPI_SubmitCommendation"
+addr = 0xf62ec0
+type = "unsigned long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037424Z
+addr = 0x9fa330
+size = 0xd0
+name = "CLoopModeGame_OnClientAdvanceTick"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_OnClientAdvanceTick"
+addr = 0x9fa330
+type = "long long"
+
+[header.args]

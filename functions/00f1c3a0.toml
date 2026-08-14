@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:28.484674Z
+addr = 0xf1c3a0
+size = 0x40f
+name = "GameStateAPI_GetPlayerDataJSO"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetPlayerDataJSO"
+addr = 0xf1c3a0
+type = "void"
+
+[header.args]

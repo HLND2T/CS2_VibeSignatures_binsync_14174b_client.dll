@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037702Z
+addr = 0xf3cb70
+size = 0x3b
+name = "GameStateAPI_IsLocalPlayerHLTV"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsLocalPlayerHLTV"
+addr = 0xf3cb70
+type = "bool"
+
+[header.args]

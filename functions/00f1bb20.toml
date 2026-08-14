@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037590Z
+addr = 0xf1bb20
+size = 0xd1
+name = "GameStateAPI_GetPlayerCommendsFriendly"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerCommendsFriendly"
+addr = 0xf1bb20
+type = "long long"
+
+[header.args]

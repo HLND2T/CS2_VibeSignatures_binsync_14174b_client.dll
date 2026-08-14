@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:27.659543Z
+addr = 0xf16440
+size = 0x216
+name = "GameStateAPI_GetMapsInMapGroup"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetMapsInMapGroup"
+addr = 0xf16440
+type = "long long"
+
+[header.args]

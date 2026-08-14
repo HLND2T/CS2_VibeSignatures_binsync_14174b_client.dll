@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037451Z
+addr = 0x9fb3c0
+size = 0xe2
+name = "CLoopModeGame_OnPreDataUpdate"
+type = "void"
+
+[header]
+name = "CLoopModeGame_OnPreDataUpdate"
+addr = 0x9fb3c0
+type = "void"
+
+[header.args]

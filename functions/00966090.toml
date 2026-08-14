@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037390Z
+addr = 0x966090
+size = 0x56
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_CreateGameSystem"
+type = "unsigned long long *"
+
+[header]
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_CreateGameSystem"
+addr = 0x966090
+type = "unsigned long long *"
+
+[header.args]

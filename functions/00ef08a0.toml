@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037515Z
+addr = 0xef08a0
+size = 0x14c
+name = "GameStateAPI_ArePlayersEnemies"
+type = "char"
+
+[header]
+name = "GameStateAPI_ArePlayersEnemies"
+addr = 0xef08a0
+type = "char"
+
+[header.args]

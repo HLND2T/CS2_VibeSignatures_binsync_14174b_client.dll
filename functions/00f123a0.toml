@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:27.299927Z
+addr = 0xf123a0
+size = 0x372
+name = "GameStateAPI_GetKickTargets"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetKickTargets"
+addr = 0xf123a0
+type = "void"
+
+[header.args]

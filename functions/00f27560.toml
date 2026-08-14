@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:10.037667Z
+addr = 0xf27560
+size = 0x29
+name = "GameStateAPI_GetTeamFlagImagePath"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetTeamFlagImagePath"
+addr = 0xf27560
+type = "char *"
+
+[header.args]

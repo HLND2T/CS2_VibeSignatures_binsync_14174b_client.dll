@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:52:27.711472Z
+addr = 0xf168b0
+size = 0x3af
+name = "GameStateAPI_GetMatchEndWinDataJSO"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetMatchEndWinDataJSO"
+addr = 0xf168b0
+type = "void"
+
+[header.args]

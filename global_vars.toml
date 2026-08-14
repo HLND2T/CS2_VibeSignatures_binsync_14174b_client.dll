@@ -1,0 +1,66 @@
+[0x1ccf340]
+last_change = 2026-08-14T14:23:39.049997Z
+addr = 0x1ccf340
+name = "aUndefined_0"
+size = 0xc
+
+[0x2383da0]
+last_change = 2026-08-14T14:23:39.050068Z
+addr = 0x2383da0
+name = "qword_182384DA0"
+size = 0x8
+
+[0x23beb20]
+last_change = 2026-08-14T14:23:39.050107Z
+addr = 0x23beb20
+name = "qword_1823BFB20"
+size = 0x8
+
+[0x25cd820]
+last_change = 2026-08-14T14:23:39.050411Z
+addr = 0x25cd820
+name = "dword_1825CE820"
+size = 0x4
+
+[0x25cd828]
+last_change = 2026-08-14T14:23:39.050430Z
+addr = 0x25cd828
+name = "qword_1825CE828"
+size = 0x8
+
+[0x25cd830]
+last_change = 2026-08-14T14:23:39.050447Z
+addr = 0x25cd830
+name = "byte_1825CE830"
+size = 0x1
+
+[0x25cd838]
+last_change = 2026-08-14T14:23:39.050464Z
+addr = 0x25cd838
+name = "byte_1825CE838"
+size = 0x1
+
+[0x25cd840]
+last_change = 2026-08-14T14:23:39.050481Z
+addr = 0x25cd840
+name = "qword_1825CE840"
+size = 0x8
+
+[0x25cd848]
+last_change = 2026-08-14T14:23:39.050498Z
+addr = 0x25cd848
+name = "dword_1825CE848"
+size = 0x4
+
+[0x25cd850]
+last_change = 2026-08-14T14:23:39.050514Z
+addr = 0x25cd850
+name = "unk_1825CE850"
+size = 0x1
+
+[0x25cd860]
+last_change = 2026-08-14T14:23:39.050799Z
+addr = 0x25cd860
+name = "CriticalSection"
+type = "struct _RTL_CRITICAL_SECTION"
+size = 0x28
